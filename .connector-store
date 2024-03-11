@@ -1,0 +1,29 @@
+{
+  "name": "Mailchimp Connector",
+  "owner": "Mailchimp",
+  "category": "Marketing",
+  "documentationUrl": "https://mailchimp.com/developer/",
+  "description": "Integrate your applications with Mailchimp using our powerful connector. Manage subscribers, create campaigns, and analyze marketing performance effortlessly. Streamline your email marketing efforts and drive engagement with our Mailchimp integration.",
+  "status": "Active",
+  "labels": [
+    "Integration",
+    "Connector",
+    "Marketing"
+  ],
+  "releases": [
+    {
+      "tagName": "release-7",
+      "products": [
+        "EI 6.2.1",
+        "EI 6.1.0"
+      ]
+    },
+    {
+      "tagName": "release-3",
+      "products": [
+        "EI 2.0.0",
+        "IS 2.0.0"
+      ]
+    }
+  ]
+}
